@@ -1,4 +1,4 @@
-# American Express Default Prediction (Kaggle Competition) - Ongoing
+# American Express Default Prediction - (A Bronze Medal Solution of the Kaggle Competition) - Ongoing
 
 ## Loading the data
 
